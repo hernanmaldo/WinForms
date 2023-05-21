@@ -1,0 +1,12 @@
+C:\Users\herna\source\repos\BibliotecaCLasesWin\bin\Debug\net7.0\BibliotecaCLasesWin.deps.json
+C:\Users\herna\source\repos\BibliotecaCLasesWin\bin\Debug\net7.0\BibliotecaCLasesWin.dll
+C:\Users\herna\source\repos\BibliotecaCLasesWin\bin\Debug\net7.0\BibliotecaCLasesWin.pdb
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\BibliotecaCLasesWin.csproj.AssemblyReference.cache
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\BibliotecaCLasesWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\BibliotecaCLasesWin.AssemblyInfoInputs.cache
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\BibliotecaCLasesWin.AssemblyInfo.cs
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\BibliotecaCLasesWin.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\BibliotecaCLasesWin.dll
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\refint\BibliotecaCLasesWin.dll
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\BibliotecaCLasesWin.pdb
+C:\Users\herna\source\repos\BibliotecaCLasesWin\obj\Debug\net7.0\ref\BibliotecaCLasesWin.dll
